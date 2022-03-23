@@ -1,0 +1,3430 @@
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int v;(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[9022->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(9022,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(9022,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(9022,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(9022,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(9022,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(9022,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=10}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[]
+SymTable:
+{a=(9022,int), v=32}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[9022->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(int v;(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[8196->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(8196,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(8196,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(8196,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(8196,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(8196,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(8196,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+6
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=10}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+7
+ExeStack:
+[]
+SymTable:
+{a=(8196,int), v=32}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[8196->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int v;(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[6106->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(6106,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(6106,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(6106,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(6106,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(6106,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(6106,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=10}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[]
+SymTable:
+{a=(6106,int), v=32}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[6106->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int v;(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[4669->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(4669,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(4669,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(4669,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(4669,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(4669,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(4669,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=10}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[]
+SymTable:
+{a=(4669,int), v=32}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[4669->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int v;(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(Ref int a;(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))), Ref int a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(v=10;(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))), v=10]
+SymTable:
+{a=(0,int), v=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(new(a,22);(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a)))), new(a,22)]
+SymTable:
+{a=(0,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))));(print(v);print(readHeap(a))))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a))), fork((writeHeap(a, 30);(v=32;(print(v);print(readHeap(a))))))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(writeHeap(a, 30);(v=32;(print(v);print(readHeap(a)))))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a)))), writeHeap(a, 30)]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[]
+FileTable:
+{}
+Heap:
+[495->22] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(v=32;(print(v);print(readHeap(a))))]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a))), v=32]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(495,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(print(v);print(readHeap(a)))]
+SymTable:
+{a=(495,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(495,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a)), print(v)]
+SymTable:
+{a=(495,int), v=32}
+Out:
+[10, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(495,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[print(readHeap(a))]
+SymTable:
+{a=(495,int), v=32}
+Out:
+[10, 30, 32]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=10}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[]
+SymTable:
+{a=(495,int), v=32}
+Out:
+[10, 30, 32, 30]
+FileTable:
+{}
+Heap:
+[495->30] 
+--x---*-----x-----*------x--------*---------X-------------x-

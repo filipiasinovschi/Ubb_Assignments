@@ -1,0 +1,5446 @@
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+2
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0, 0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0, 0]
+FileTable:
+{test.in=java.io.BufferedReader@58bb8e6e}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+3
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[0, 0]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@2864ac56}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@237053bc}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+5
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@5017e99}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@598b9}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@3f001b84}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+4
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@6f2d64f0}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@315c0c88}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@b188228}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(string varf;(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(varf='test.in';(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))))]
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))), varf='test.in']
+SymTable:
+{varf=''}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(int varc;(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))))]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))), int varc]
+SymTable:
+{varf='test.in'}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf);(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))), openRFile(varf)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))))]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf)))), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=0}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);(openRFile(varf,varc);(print(varc);closeRFile(varf))))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf))), print(varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(openRFile(varf,varc);(print(varc);closeRFile(varf)))]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf)), openRFile(varf,varc)]
+SymTable:
+{varf='test.in', varc=5}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[(print(varc);closeRFile(varf))]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf), print(varc)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[closeRFile(varf)]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{test.in=java.io.BufferedReader@54d3899c}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
+--X---*----X-----*------X---------*--------x------------x--
+Thread ID:
+1
+ExeStack:
+[]
+SymTable:
+{varf='test.in', varc=50}
+Out:
+[5, 50]
+FileTable:
+{}
+Heap:
+
+--x---*-----x-----*------x--------*---------X-------------x-
